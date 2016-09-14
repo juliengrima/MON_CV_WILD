@@ -1,0 +1,80 @@
+.back{
+    background-color: rgb(104, 187, 255);
+    width: 80%;
+}
+
+#header{
+    
+    background-color: #cddae4;
+}
+h1{
+    text-shadow: 5px grey;
+    font-weight: bold;
+}
+h3{
+    font-weight: bold;
+}
+
+#left-box{
+    float: left;
+    background-color: rgb(9, 30, 45);
+    color: white;
+}
+
+.img{
+    margin-top: 15px;
+    height: 280px;
+    width: 200px;
+}
+
+#right-box{
+    background-color: #cddae4;
+    float: right;
+}
+h5{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+h6{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+li{
+    text-indent: 5PX;
+}
+
+#experiences-box{
+    background-color: white;
+}
+.pad{
+    padding-top: 10%;
+}
+
+
+.experience{
+    text-indent: 10px;
+    background-color: #b2c1cd;
+}
+.p{
+    text-indent: 50px;
+}
+
+.marge{
+    margin-left: 5em;
+}
+
+#study-box{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+.study{
+    background-color: #b2c1cd
+}
+
+#footer{
+    background-color: #cddae4;
+}
